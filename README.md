@@ -19,7 +19,7 @@ Welcome to my Udemy Clone — a fully responsive front-end project built as part
 
 # 🎓 Udemy Clone (Responsive Website)
 
-🔗 Live Demo: [https://yourusername.github.io/udemy-clone](https://yourusername.github.io/udemy-clone)
+🔗 Live Demo: [https://dhinakaran-k-2.github.io/Udemy-Clone-Project/]
 
 ## 🧱 BEM Naming Convention
 
